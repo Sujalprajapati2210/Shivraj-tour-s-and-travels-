@@ -114,7 +114,7 @@
     </header>
 
     <div class="hero-container">
-        <img src="https://share.google/JOwT4DyyY47fT7EGb" 
+        <img src="IMG-20260108-WA0121.jpg" 
              alt="Shivraj Tours and Travels Hero Image" 
              class="hero-image">
     </div>
